@@ -1,1 +1,1 @@
-The total is: 555, and the average is: 55.5
+The total is: 43, and the average is: 4.3
